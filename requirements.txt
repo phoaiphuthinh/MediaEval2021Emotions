@@ -1,0 +1,5 @@
+torch
+timm
+numpy
+sklearn
+opencv-python
